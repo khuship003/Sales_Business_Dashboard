@@ -8,7 +8,7 @@ An interactive Power BI dashboard analyzing the Sample Superstore dataset (~10,0
 Key Insights
 
 West region generated the highest revenue at ~725K, while South lagged behind at ~392K
-Orders with discounts above [FILL IN: the % where profit turned negative in your scatter plot] frequently turned unprofitable, especially in [FILL IN: the category with the most red/negative-profit dots]
+Orders with discounts above 40% frequently turned unprofitable — for example, a Technology order discounted 40% resulted in a loss of ₹1,359.99
 Sean Miller was the highest-spending customer at ~25,043 in total purchases across the period
 
 Tools
